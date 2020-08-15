@@ -1,0 +1,1000 @@
+ 1030  gedit ../script.sh &
+ 1031  git remote add https://github.com/Ardouz/Test.git
+ 1032  git remote add origin https://github.com/Ardouz/Test.git
+ 1033  git remote remove origin
+ 1034  git remote add origin https://github.com/Ardouz/Test.git
+ 1035  git push -u origin master
+ 1036  git remote remove origin
+ 1037  git remote add origin https://github.com/Ardouz11/Test1.git
+ 1038  git push -u origin master
+ 1039  git remote add origin https://github.com/Ardouz11/Test.git
+ 1040  git remote remove origin
+ 1041  git remote add origin https://github.com/Ardouz11/Test.git
+ 1042  git push -u origin master
+ 1043  git pull
+ 1044  git push -u origin master
+ 1045  git status
+ 1046  git pull --rebase
+ 1047  git push origin FixForBug
+ 1048  git push origin master
+ 1049  git push -u origin master
+ 1050  git remote remove origin
+ 1051  git remote add origin https://github.com/Ardouz11/Test.git
+ 1052  git push -u origin master
+ 1053  git config --list
+ 1054  cd ..
+ 1055  rm -r Demo/
+ 1056  rm -r Demo/ y
+ 1057  rm -r Demo
+ 1058  sudo rm -r Demo -y
+ 1059  sudo rm -rf Demo -y
+ 1060  sudo rm -rf Demo y
+ 1061  ls
+ 1062  git config --list
+ 1063  cd Desktop/Learning/
+ 1064  mkdir git
+ 1065  cd git/
+ 1066  git init demo
+ 1067  ls
+ 1068  cd demo/
+ 1069  cd ..
+ 1070  git remote -v
+ 1071  git remote remove origin
+ 1072  git remote -v
+ 1073  sudo rm -r demo/
+ 1074  git init
+ 1075  cp ../Node_Js/test.js .
+ 1076  git add test.js 
+ 1077  git commit -m "Commit message."  
+ 1078  git clone https://github.com/Ardouz11/Tes
+ 1079  cd Desktop/Learning/Node_Js/
+ 1080  ls
+ 1081  mkdir basics
+ 1082  cd basics/
+ 1083  gedit tuto.js
+ 1084  node tuto.js 
+ 1085  gedit tuto.js
+ 1086  node tuto.js 
+ 1087  gedit tuto.js
+ 1088  npm install express -g 
+ 1089  sudo npm install express -g 
+ 1090  gedit tuto.js &
+ 1091  node tuto.js 
+ 1092  cd ..
+ 1093  ls
+ 1094  gedit arg.js 
+ 1095  gedit dns.js 
+ 1096  gedit fs.js 
+ 1097  gedit time.js 
+ 1098  cd basics/
+ 1099  gedit web.js
+ 1100  gedit index.html
+ 1101  node web.js 
+ 1102  gedit web.js
+ 1103  node web.js 
+ 1104  gedit web.js
+ 1105  node web.js 
+ 1106  gedit web.js
+ 1107  node web.js 
+ 1108  npm install mysql
+ 1109  npm install mysql -g
+ 1110  sudo npm install mysql -g
+ 1111  sudo npm install mongodb -g
+ 1112  cd Downloads/
+ 1113  chmod +x bazel-3.3.0-installer-linux-x86_64.sh 
+ 1114  ./bazel-3.3.0-installer-linux-x86_64.sh --user
+ 1115  export PATH="$PATH:$HOME/bin"
+ 1116  sudo apt-get update && sudo apt-get upgrade -y
+ 1117  sudo apt-get upgrade -y
+ 1118  sudo apt-get update 
+ 1119  cd ~/Downloads
+ 1120  chmod +x VMware-Player*
+ 1121  chmod +x VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle
+ 1122  sudo ./VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle 
+ 1123  ./ VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle
+ 1124  ./VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle
+ 1125  sudo ./VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle 
+ 1126  udo apt-get install libcanberra-gtk3-module
+ 1127  sudo apt-get install libcanberra-gtk3-module
+ 1128  sudo ./VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle 
+ 1129  sudo apt-get install canberra-gtk-module
+ 1130  sudo apt-get install build-essential open-vm-tools open-vm-toolbox
+ 1131  sudo bash VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle
+ 1132  sudo apt-get update
+ 1133  sudo apt-get install gcc build-essential linux-headers-$(uname -r)
+ 1134  cd Downloads/
+ 1135  sudo bash VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle
+ 1136  sudo apt-get install libcanberra-gtk-module
+ 1137  sudo apt-get install murrine-themes
+ 1138  sudo bash VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle
+ 1139  sudo apt install gnome-themes-standard
+ 1140  sudo apt-get install gnome-themes-extra gnome-themes-extra:i386
+ 1141  sudo apt-get install gnome-themes-extra gnome-themes
+ 1142  sudo apt-get install gnome-themes gnome-themes
+ 1143  sudo apt install gnome-themes-standard
+ 1144  sudo bash VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle
+ 1145  sudo vmware-installer --uninstall-product vmware-workstation
+ 1146  sudo apt install gcc build-essential -y
+ 1147  sudo ./VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle 
+ 1148  sudo vmware-installer --uninstall-product vmware-workstation
+ 1149  cd Downloads/
+ 1150  sudo chmod a+x VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle
+ 1151  sudo ./VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle 
+ 1152  sudo wget https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle
+ 1153  cd Downloads/
+ 1154  sudo wget https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle
+ 1155  sudo chmod a+x VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle 
+ 1156  sudo bash VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle 
+ 1157  gedit patch-modules_3.2.0.sh
+ 1158  sudo ./patch-modules_3.2.0.sh
+ 1159  sudo vmware-modconfig --console --install-all
+ 1160  sudo apt-get install build-essential linux-headers-$(uname -r) open-vm-dkms
+ 1161  sudo ln -s /usr/src/linux-headers-$(uname -r)/include/generated/uapi/linux/version.h /usr/src/linux-headers-$(uname -r)/include/linux/version.h 
+ 1162  sudo vmware-installer -u vmware-player
+ 1163  sudo vmware-installer 
+ 1164  sudo vmware-installer -u 
+ 1165  sudo vmware-installer -u vmware-WorkStation
+ 1166  sudo vmware-installer -u vmware-workstation
+ 1167  ./VMware-*.bundle.
+ 1168  ./VMware-*.bundle
+ 1169  sudo ./VMware-*.bundle
+ 1170  git clone -b workstation-15.0.2 https://github.com/mkubecek/vmware-host-modules.git
+ 1171  cd vmware-host-modules
+ 1172  tar -cf vmmon.tar vmmon-only
+ 1173  tar -cf vmnet.tar vmnet-only
+ 1174  sudo cp -v vmmon.tar vmnet.tar /usr/lib/vmware/modules/source/
+ 1175  sudo vmware-modconfig --console --install-all
+ 1176  cd ..
+ 1177  sudo vmware-installer -u vmware-workstation
+ 1178  sudo chmod a+x VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle 
+ 1179  sudo bash VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle 
+ 1180  git clone -b workstation-14 https://github.com/mkubecek/vmware-host-modules.git
+ 1181  git clone -b workstation-14.0.2 https://github.com/mkubecek/vmware-host-modules.git
+ 1182  git clone -b workstation-14.0.0 https://github.com/mkubecek/vmware-host-modules.git
+ 1183  git clone -b workstation-15.0.2 https://github.com/mkubecek/vmware-host-modules.git
+ 1184  cd vmware-host-modules
+ 1185  sudo cp -v vmmon.tar vmnet.tar /usr/lib/vmware/modules/source/
+ 1186  sudo vmware-modconfig --console --install-all
+ 1187  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys D6BC243565B2087BC3F897C9277A7293F59E4889
+ 1188  echo "deb http://miktex.org/download/ubuntu xenial universe" | sudo tee /etc/apt/sources.list.d/miktex.list
+ 1189  sudo apt-get update
+ 1190  sudo apt-get install miktex
+ 1191  miktexsetup finish
+ 1192  sudo miktexsetup --shared=yes finish
+ 1193  initexmf --set-config-value [MPM]AutoInstall=1
+ 1194  sudo usermod -aG vboxusers ardouz
+ 1195  udo apt install virtualbox-5.2 dkms
+ 1196  sudo apt install virtualbox-5.2 dkms
+ 1197  sudo apt install virtualbox-6.1 dkms
+ 1198  hostname
+ 1199  hostname -I
+ 1200  sudo apt-get remove google-chrome-stable
+ 1201  sudo apt-get remove brave-browser 
+ 1202  cd Desktop/Learning/
+ 1203  mkdir MisraC
+ 1204  cd MisraC/
+ 1205  gedit directives.C
+ 1206  gcc -o directives directives.C 
+ 1207  ls
+ 1208  ./directives 
+ 1209  gedit directives.C
+ 1210  gcc -o directives directives.C 
+ 1211  ./directives 
+ 1212  gedit directives.C
+ 1213  gcc -o directives directives.C 
+ 1214  ./directives 
+ 1215  gedit order_of_evaluation.c
+ 1216  gcc -o order_of_evaluation order_of_evaluation.c 
+ 1217  gedit order_of_evaluation.c
+ 1218  gcc -o order_of_evaluation order_of_evaluation.c 
+ 1219  ./order_of_evaluation 
+ 1220  ls /usr/lib/
+ 1221  pip install webdriver-manager
+ 1222  cd Desktop/Learning/
+ 1223  ls
+ 1224  mkdir WebScrapping
+ 1225  cd WebScrapping/
+ 1226  gedit link.py
+ 1227  python link.py 
+ 1228  gedit link.py
+ 1229  python link.py 
+ 1230  sudo pip install selenium
+ 1231  python link.py 
+ 1232  pip install selenium
+ 1233  python link.py 
+ 1234  python3 link.py 
+ 1235  pip install parsel
+ 1236  python3 link.py 
+ 1237  gedit link.py 
+ 1238  pip install webdriver-manager
+ 1239  python3 link.py 
+ 1240  gedit link.py 
+ 1241  python3 link.py 
+ 1242  gedit link.py 
+ 1243  python3 link.py 
+ 1244  gedit link.py 
+ 1245  python3 link.py 
+ 1246  cd Desktop/Learning/WebScrapping/
+ 1247  gedit link.py 
+ 1248  python3 link.py 
+ 1249  gedit bit_stuffing.c
+ 1250  ls
+ 1251  cd Desktop/OpenCV/
+ 1252  ls
+ 1253  python color.py 
+ 1254  tar -xzf kafka_2.12-2.5.0.tgz
+ 1255  cd kafka_2.12-2.5.0/
+ 1256  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1257  bin/kafka-server-start.sh config/server.properties
+ 1258  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1259  bin/kafka-server-start.sh config/server.properties
+ 1260  cd Downloads/
+ 1261  sudo ufw status
+ 1262  python3 --version
+ 1263  python3 -m pip --version
+ 1264  pip3 install numpy --user
+ 1265  /usr/bin/python3 -m pip install --upgrade
+ 1266  python3 -m pip install --upgrade
+ 1267  pip3 install numpy --user
+ 1268  sudo apt-get install libreadline-gplv2-dev libncursesw5-devlibssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+ 1269  sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+ 1270  sudo apt-get libbz2-1.0
+ 1271  sudo apt-get install libbz2-1.0
+ 1272  python3 -m pip install -r ​$HOME​/opt/CarlaSimulator/requirements.txt--user
+ 1273  python3 -m pip install -r ​$HOME​/CarlaSimulator/requirements.txt--user
+ 1274  cd ~
+ 1275  python3 -m pip install -r ​CarlaSimulator/requirements.txt--user
+ 1276  python3 -m pip install -r ​CarlaSimulator/requirements.txt --user
+ 1277  python3 -m pip install -r ​CarlaSimulator/requirements.txt 
+ 1278  cd CarlaSimulator/
+ 1279  python3 -m pip install -r ​requirements.txt 
+ 1280  python3 -m pip install requirements.txt 
+ 1281  python3 -m pip install -r requirements.txt 
+ 1282  ./CarlaUE4.sh -windowed -carla-no-networking
+ 1283  lsmod
+ 1284  ~/UnrealEngine_4.17/Engine/Binaries/Linux/UE4Editor -opengl3
+ 1285  ./CarlaUE4.sh -windowed -carla-no-networking -opengl3
+ 1286  0.000000000000000000e+00, 0.000000000000000000e+00
+ 1287  1.000000000000000021e-02, 5.000000000000000278e-02
+ 1288  2.000000000000000042e-02, 1.000000000000000056e-01
+ 1289  2.999999999999999889e-02, 1.504492679349454798e-01
+ 1290  4.000000000000000083e-02, 2.013478038048364116e-01
+ 1291  5.000000000000000278e-02, 2.526955768997374840e-01
+ 1292  5.999999999999999778e-02, 3.044925562352087112e-01
+ 1293  7.000000000000000666e-02, 3.567387105544515546e-01
+ 1294  8.000000000000000167e-02, 4.094340083283844467e-01
+ 1295  8.999999999999999667e-02, 4.625784177557191179e-01
+ 1296  1.000000000000000056e-01, 5.161667399689209290e-01
+ 1297  1.100000000000000006e-01, 5.701903004104817985e-01
+ 1298  1.199999999999999956e-01, 6.246406660569431279e-01
+ 1299  1.300000000000000044e-01, 6.795096996842318049e-01
+ 1300  1.400000000000000133e-01, 7.347895446423570176e-01
+ 1301  1.499999999999999944e-01, 7.904726095638348049e-01
+ 1302  1.600000000000000033e-01, 8.465515541994009796e-01
+ 1303  1.700000000000000122e-01, 9.030192762960345121e-01
+ 1304  1.799999999999999933e-01, 9.598688994207306147e-01
+ 1305  1.900000000000000022e-01, 1.017093761643862226e+00
+ 1306  2.000000000000000111e-01, 1.074687405005391616e+00
+ 1307  2.099999999999999922e-01, 1.132643565695428123e+00
+ 1308  2.200000000000000011e-01, 1.190956164887834845e+00
+ 1309  2.300000000000000100e-01, 1.249619300171911362e+00
+ 1310  2.399999999999999911e-01, 1.308627237532746790e+00
+ 1311  2.500000000000000000e-01, 1.367974403835748864e+00
+ 1312  2.600000000000000089e-01, 1.427655379775195410e+00
+ 1313  2.700000000000000178e-01, 1.487664893250508769e+00
+ 1314  2.800000000000000266e-01, 1.547997813137367951e+00
+ 1315  2.899999999999999800e-01, 1.608649143423822592e+00
+ 1316  2.999999999999999889e-01, 1.669614017684288187e+00
+ 1317  3.099999999999999978e-01, 1.730887693866728583e+00
+ 1318  3.200000000000000067e-01, 1.792465549370509503e+00
+ 1319  3.300000000000000155e-01, 1.854343076394356693e+00
+ 1320  3.400000000000000244e-01, 1.916515877535608370e+00
+ 1321  3.500000000000000333e-01, 1.978979661623529340e+00
+ 1322  3.599999999999999867e-01, 2.041730239770882527e+00
+ 1323  3.699999999999999956e-01, 2.104763521629238632e+00
+ 1324  3.800000000000000044e-01, 2.168075511834671509e+00
+ 1325  3.900000000000000133e-01, 2.231662306631543302e+00
+ 1326  4.000000000000000222e-01, 2.295520090663039969e+00
+ 1327  4.100000000000000311e-01, 2.359645133917993132e+00
+ 1328  4.199999999999999845e-01, 2.424033788824313085e+00
+ 1329  4.299999999999999933e-01, 2.488682487480082806e+00
+ 1330  4.400000000000000022e-01, 2.553587739014025804e+00
+ 1331  4.500000000000000111e-01, 2.618746127067657081e+00
+ 1332  4.600000000000000200e-01, 2.684154307391984240e+00
+ 1333  4.700000000000000289e-01, 2.749809005552128927e+00
+ 1334  4.799999999999999822e-01, 2.815707014733702440e+00
+ 1335  4.899999999999999911e-01, 2.881845193645195202e+00
+ 1336  5.000000000000000000e-01, 2.948220464511032368e+00
+ 1337  5.100000000000000089e-01, 3.014829811150305794e+00
+ 1338  5.200000000000000178e-01, 3.081670277136527414e+00
+ 1339  5.300000000000000266e-01, 3.148738964034053289e+00
+ 1340  5.400000000000000355e-01, 3.216033029707108248e+00
+ 1341  5.500000000000000444e-01, 3.283549686697607495e+00
+ 1342  5.600000000000000533e-01, 3.351286200668208259e+00
+ 1343  5.700000000000000622e-01, 3.419239888907247948e+00
+ 1344  5.799999999999999600e-01, 3.487408118892437958e+00
+ 1345  5.899999999999999689e-01, 3.555788306910367069e+00
+ 1346  5.999999999999999778e-01, 3.624377916729051741e+00
+ 1347  6.099999999999999867e-01, 3.693174458320934495e+00
+ 1348  6.199999999999999956e-01, 3.762175486633887012e+00
+ 1349  6.300000000000000044e-01, 3.831378600407914892e+00
+ 1350  6.400000000000000133e-01, 3.900781441035398256e+00
+ 1351  6.500000000000000222e-01, 3.970381691462823603e+00
+ 1352  6.600000000000000311e-01, 4.040177075132081796e+00
+ 1353  6.700000000000000400e-01, 4.110165354959512740e+00
+ 1354  6.800000000000000488e-01, 4.180344332350978576e+00
+ 1355  6.900000000000000577e-01, 4.250711846251341797e+00
+ 1356  sudo mkdir /usr/lib/jvm
+ 1357  cd /usr/lib/jvm
+ 1358  ls
+ 1359  sudo tar -xvzf ~/Downloads/jdk-8u151-linux-x64.tar.gz
+ 1360  sudo tar -xvzf ~/Downloads/jdk-8u261-linux-x64.tar.gz
+ 1361  vi /etc/environment
+ 1362  cd /usr/lib/jvm
+ 1363  gedit /etc/environment 
+ 1364  sudo gedit /etc/environment 
+ 1365  ls
+ 1366  sudo rm java-1.8.0-openjdk-amd64
+ 1367  sudo rm java-8-openjdk-amd64/
+ 1368  sudo rm -r java-8-openjdk-amd64/
+ 1369  ls
+ 1370  sudo gedit /etc/environment 
+ 1371  sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/jdk1.8.0_261/bin/java" 0
+ 1372  sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/lib/jvm/jdk1.8.0_261/bin/javac" 0
+ 1373  sudo update-alternatives --set java /usr/lib/jvm/jdk1.8.0_261/bin/java
+ 1374  sudo update-alternatives --set javac /usr/lib/jvm/jdk1.8.0_261/bin/javac
+ 1375  update-alternatives --list java
+ 1376  update-alternatives --list javac
+ 1377  java -version
+ 1378  gedit .local/share/applications/eclipse.desktop
+ 1379  sudo gedit .local/share/applications/eclipse.desktop
+ 1380  cd ~
+ 1381  sudo gedit .local/share/applications/eclipse.desktop
+ 1382  sudo gedit .local/share/applications/eclipse-jee.desktop
+ 1383  sudo rm .local/share/applications/eclipse-jee.desktop
+ 1384  sudo gedit .local/share/applications/Jee-eclipse.desktop
+ 1385  cd ..
+ 1386  sudo cp - Backgrounds/ /usr/share/teams/
+ 1387  sudo cp -r Backgrounds/ /usr/share/teams/
+ 1388  sudo cp -r Backgrounds/ /usr/share/teams/resources
+ 1389  sudo apt update
+ 1390  sudo apt install snapd
+ 1391  cd /tmp
+ 1392  wget https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.3.00.5153_amd64.deb
+ 1393  dpkg -i teams_1.3.00.5153_amd64.deb
+ 1394  sudo dpkg -i teams_1.3.00.5153_amd64.deb
+ 1395  ls
+ 1396  cd ..
+ 1397  ls
+ 1398  cd usr/
+ 1399  ls
+ 1400  cd Desktop/Learning/
+ 1401  ls
+ 1402  cd ..
+ 1403  ls
+ 1404  cd SE
+ 1405  ls
+ 1406  cd ..
+ 1407  cd Learning/
+ 1408  ls
+ 1409  cd CH341SER_LINUX/
+ 1410  ls
+ 1411  gedit ch34x.c 
+ 1412  cd ..
+ 1413  cd Django/
+ 1414  ls
+ 1415  cd ..
+ 1416  cd ~/Downloads/
+ 1417  ls
+ 1418  cd ~
+ 1419  grep mongo
+ 1420  history 
+ 1421  mongo
+ 1422  cd Desktop/Learning/
+ 1423  mkdir Mongodb
+ 1424  cd Mongodb/
+ 1425  wget -qO - https://www.mongodb.org/static/pgp/server-4.4.asc | sudo apt-key add -
+ 1426  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/4.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.4.list
+ 1427  sudo apt-get update
+ 1428  sudo apt-get install -y mongodb-org
+ 1429  echo "mongodb-org hold" | sudo dpkg --set-selections
+ 1430  echo "mongodb-org-server hold" | sudo dpkg --set-selections
+ 1431  echo "mongodb-org-shell hold" | sudo dpkg --set-selection
+ 1432  echo "mongodb-org-shell hold" | sudo dpkg --set-selections
+ 1433  echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
+ 1434  echo "mongodb-org-tools hold" | sudo dpkg --set-selections
+ 1435  ps --no-headers -o comm 1
+ 1436  sudo systemctl start mongod
+ 1437  sudo systemctl status mongod
+ 1438  sudo systemctl enable mongod*
+ 1439  sudo systemctl enable mongod
+ 1440  sudo systemctl stop mongod
+ 1441  sudo systemctl restart mongod
+ 1442  sudo systemctl status mongod
+ 1443  mongo
+ 1444  mongo "mongodb://mongodb0.example.com:28015"
+ 1445  mongo --host mongodb0.example.com:28015
+ 1446  use test_db
+ 1447  mongo
+ 1448  ls
+ 1449  kafka-server-start.sh config/server.properties
+ 1450  ps aux | grep zookeeper
+ 1451  kill -9 20430
+ 1452  kill -9 21296
+ 1453  ps aux | grep zookeeper
+ 1454  kill -9 21296
+ 1455  bin/zookeeper-server-start.sh -daemon config/zookeeper.properties && (bin/kafka-server-start.sh config/server.properties || echo "kafka start failed. restarting ... " && sleep 3 && bin/kafka-server-start.sh config/server.properties)
+ 1456  zookeeper-server-start.sh config/zookeeper.properties
+ 1457  cd kafka_2.12-2.5.0/
+ 1458  ls
+ 1459  history
+ 1460  cd ..
+ 1461  tar -xvf kafka_2.13-2.5.0.tgz 
+ 1462  cd kafka_2.13-2.5.0/
+ 1463  cd ..
+ 1464  sudo gedit .bashrc
+ 1465  kafka_topics.sh
+ 1466  sudo gedit .bashrc
+ 1467  kafka_topics.sh
+ 1468  source .bashrc
+ 1469  kafka_topics.sh
+ 1470  kafka-topics.sh
+ 1471  cd kafka_2.13
+ 1472  cd kafka_2.13-2.5.0/
+ 1473  mkdir data
+ 1474  cd data
+ 1475  mkdir kafka zookeeper
+ 1476  ls
+ 1477  gedit ../config/zookeeper.properties
+ 1478  pwd
+ 1479  gedit ../config/zookeeper.properties
+ 1480  zookeeper-server-start.sh config/zookeeper.properties
+ 1481  zookeeper-server-start.sh ../config/zookeeper.properties
+ 1482  cd zookeeper/
+ 1483  ls
+ 1484  cd ..
+ 1485  cd kafka/
+ 1486  pwd
+ 1487  gedit ../../config/server.properties 
+ 1488  afka-server-start.sh config/zerver.properties
+ 1489  kafka-server-start.sh config/zerver.properties
+ 1490  cd ../..
+ 1491  kafka-server-start.sh config/zerver.properties
+ 1492  ls
+ 1493  kafka-server-start.sh config/zerver.properties
+ 1494  kafka-server-start.sh config/server.properties
+ 1495  kafka-topics -zookeeper localhost:2181 -topic clusterdb-topic1 -create 
+ 1496  kafka-topics.sh -zookeeper localhost:2181 -topic clusterdb-topic1 -create 
+ 1497  kafka-topics.sh -zookeeper localhost:2181 -topic clusterdb-topic1 -create -partitions 3 replication 1
+ 1498  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 3 --replication 1
+ 1499  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 3 --replication-factor 1
+ 1500  kafka-server-start.sh config/server.properties
+ 1501  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 3 --replication-factor 1
+ 1502  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 3 --replication-factor 3
+ 1503  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 3 --replication-factor 1
+ 1504  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 1 --replication-factor 1
+ 1505  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 1 
+ 1506  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 1 --replication-factor 1
+ 1507  kafka-topics.sh -zookeeper localhost:2181 -list
+ 1508  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 3 --replication-factor 1
+ 1509  sudo fuser -k 2181/tcp
+ 1510  kafka-topics.sh --zookeeper localhost:2181 --topic clusterdb-topic1 --create --partitions 3 --replication-factor 1
+ 1511  mongo
+ 1512  shutdown -now
+ 1513  sudo shutdown now
+ 1514  sudo apt-get install && sudo apt-get upgrade -y
+ 1515  sudo apt-get upgrade -y
+ 1516  sudo apt-get install update
+ 1517  sudo apt-get install upgrade
+ 1518  mongo
+ 1519  find mongo
+ 1520  which mongo
+ 1521  which mongodb
+ 1522  which mong
+ 1523  sudo /etc/mongod.conf
+ 1524  mongo
+ 1525  sudo gedit /etc/mongod.conf
+ 1526  mongo
+ 1527  mongod — replSet rs0 — port 27017
+ 1528  mongod --replSet rs0 --port 27017
+ 1529  mongo
+ 1530  cd ..
+ 1531  mongo
+ 1532  mongod --config /etc/mongodb.conf
+ 1533  mongod --help
+ 1534  mongod --f /etc/mongodb.conf
+ 1535  mongod -f /etc/mongodb.conf
+ 1536  mongod --config "/etc/mongodb.conf"
+ 1537  mongod --version
+ 1538  mongod -f
+ 1539  mongod --config [/etc/mongodb.conf]
+ 1540  sudo mongod -f /etc/mongodb.conf
+ 1541  cd /etc 
+ 1542  mongod --config mongodb.conf
+ 1543  sudo gedit mongodb.conf
+ 1544  cd -
+ 1545  mongod --config /etc/mongod.conf
+ 1546  sudo gedit  /etc/mongod.conf
+ 1547  mongod --config /etc/mongod.conf
+ 1548  sudo gedit  /etc/mongod.conf
+ 1549  mongod --config /etc/mongod.conf
+ 1550  sudo gedit  /etc/mongod.conf
+ 1551  mongod --config /etc/mongod.conf
+ 1552  sudo gedit  /etc/mongod.conf
+ 1553  mongod --config /etc/mongod.conf
+ 1554  sudo mongod --config /etc/mongod.conf
+ 1555  mongo
+ 1556  cd kafka_2.13-2.5.0/
+ 1557  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1558  kafka-server-start.sh config/server.properties
+ 1559  bin/connect-standalone.sh config/connect-standalone.properties MongoSourceConnector.properties
+ 1560  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties
+ 1561  bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.db.collection --from-beginning
+ 1562  bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.db.collection 
+ 1563  kafka-server-start.sh config/server.properties
+ 1564  bin/kafka-server-start.sh config/server.properties
+ 1565  cd kafka_2.13-2.5.0/
+ 1566  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1567  bin/kafka-server-stop.sh 
+ 1568  bin/kafka-server-start.sh 
+ 1569  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1570  bin/kafka-server-start.sh config/server.properties
+ 1571  bin/kafka-server-stop.sh 
+ 1572  bin/kafka-server-start.sh config/server.properties
+ 1573  ps aux | grep kafka.server
+ 1574  sudo kill -9 21296
+ 1575  ps aux | grep kafka.server
+ 1576  sudo kill -9 21296
+ 1577  bin/kafka-server-start.sh config/server.properties
+ 1578  bin/kafka-server-stop.sh 
+ 1579  bin/kafka-server-stop.sh config/server.properties
+ 1580  ps aux | grep kafka.server
+ 1581  sudo kill -9 21296
+ 1582  bin/kafka-server-start.sh config/server.properties
+ 1583  nohup /var/lib/kafka/bin/kafka-server-stop.sh &
+ 1584  nohup bin/kafka-server-stop.sh &
+ 1585  lsof -t -i 2181
+ 1586  lsof  -i 2181
+ 1587  lsof -h 2181
+ 1588  lsof  2181
+ 1589  kafka-server-stop.sh
+ 1590  ps aux | grep kafka.server
+ 1591  sudo kill -9 21296
+ 1592  ps aux | grep kafka.server
+ 1593  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties
+ 1594  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
+ 1595  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties
+ 1596  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
+ 1597  bin/kafka-server-start.sh config/server.properties
+ 1598  bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic SourceA --from-beginning
+ 1599  bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic SourceA 
+ 1600  mongo
+ 1601  bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.database.collection 
+ 1602  bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.database.collection --from-beginning
+ 1603  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.database.collection --from-beginning
+ 1604  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.database.collection 
+ 1605  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic SourceA
+ 1606  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.database.collection --from-beginning
+ 1607  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic SourceA
+ 1608  bin/kafka-server-start.sh config/server.properties
+ 1609  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
+ 1610  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties 
+ 1611  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
+ 1612  cd kafka_2.13-2.5.0/
+ 1613  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1614  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.database.collection --from-beginning
+ 1615  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic SourceA  --from-beginning
+ 1616  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic sourceA  --from-beginning
+ 1617  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
+ 1618  mongo
+ 1619  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.database.collection --from-beginning
+ 1620  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic SourceA
+ 1621  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic sourceA
+ 1622  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topic-1
+ 1623  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topic-2
+ 1624  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topic-3
+ 1625  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topic
+ 1626  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topicc
+ 1627  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topiccc
+ 1628  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topicccc
+ 1629  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topic-4
+ 1630  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topic-5
+ 1631  bin/kafka-server-start.sh config/server.properties
+ 1632  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.database.collection --from-beginning
+ 1633  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topic-initial
+ 1634  mongo
+ 1635  cd kafka_2.13-2.5.0/
+ 1636  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1637  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties 
+ 1638  cd kafka_2.13-2.5.0/
+ 1639  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
+ 1640  mongo -u admin -p Gseii2021 23.97.192.20/admin
+ 1641  bin/kafka-server-start.sh config/server.properties
+ 1642  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.ardouz.collection
+ 1643  cd kafka_2.13-2.5.0/
+ 1644  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
+ 1645  mongo -u admin -p Gseii2021 23.97.192.20/admin
+ 1646  cd kafka_2.13-2.5.0/
+ 1647  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1648  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties 
+ 1649  mongo
+ 1650  bin/kafka-server-start.sh config/server.properties
+ 1651  mongo -u admin -p Gseii2021 23.97.192.20/admin
+ 1652  cd kafka_2.13-2.5.0/
+ 1653  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1654  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties 
+ 1655  mongo
+ 1656  bin/kafka-server-start.sh config/server.properties
+ 1657  cd kafka_2.13-2.5.0/
+ 1658  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties 
+ 1659  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1660  cd kafka_2.13-2.5.0/
+ 1661  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
+ 1662  sudo shutdown now
+ 1663  bin/kafka-server-start.sh config/server.properties
+ 1664  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topic-initial
+ 1665  cd kafka_2.13-2.5.0/
+ 1666  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
+ 1667  mongo -u admin -p Gseii2021 23.97.192.20/admin
+ 1668  cd kafka_2.13-2.5.0/
+ 1669  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1670  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties 
+ 1671  mongo
+ 1672  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic topic-initial
+ 1673  sudo shutdown now
+ 1674  bin/kafka-server-start.sh config/server.properties
+ 1675  kafka-console-producer.sh --bootstrap-server localhost:9092 --topic ard.ardouz.collection
+ 1676  kafka-console-proconsumer.sh --bootstrap-server localhost:9092 --topic ard.ardouz.collection
+ 1677  kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic ard.ardouz.collection
+ 1678  cd kafka_2.13-2.5.0/
+ 1679  bin/zookeeper-server-start.sh config/zookeeper.properties
+ 1680  mongo
+ 1681  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties 
+ 1682  cd kafka_2.13-2.5.0/
+ 1683  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties 
+ 1684  mongo -u admin -p Gseii2021 23.97.192.20/admin
+ 1685  sudo apt-get update 
+ 1686  sudo apt-get upgrade
+ 1687  sudo shutdown now
+ 1688  sudo apt-get update
+ 1689  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
+ 1690  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1691  sudo apt-key fingerprint 0EBFCD88
+ 1692  sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+ 1693     $(lsb_release -cs) \
+ 1694     stable"
+ 1695  sudo apt-get update
+ 1696  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 1697  apt-cache madison docker-ce
+ 1698  sudo apt-get install docker-ce=<VERSION_STRING> docker-ce-cli=<17.03.0~ce-0~ubuntu-xenial> containerd.io
+ 1699  sudo apt-get install docker-ce=<VERSION_STRING> docker-ce-cli=17.03.0~ce-0~ubuntu-xenial containerd.io
+ 1700  sudo apt-get install docker-ce=17.03.0~ce-0~ubuntu-xenial docker-ce-cli=17.03.0~ce-0~ubuntu-xenial containerd.io
+ 1701  sudo apt-get install docker-ce=17.03.0~ce-0~ubuntu-xenial 
+ 1702  sudo apt-get install docker-ce=17.03.0~ce-0~ubuntu-xenial docker-ce-cli=17.03.0~ce-0~ubuntu-xenial containerd.io
+ 1703  sudo apt-get install docker-ce=17.03.0~ce-0~ubuntu-xenial docker-ce-cli=5:19.03.12~3-0~ubuntu-xenial containerd.io
+ 1704  sudo apt-get install docker-ce=17.03.0~ce-0~ubuntu-xenial 
+ 1705  sudo docker run hello-world
+ 1706  docker container start
+ 1707  docker container start first
+ 1708  sudo docker container start first
+ 1709  docker container start --help
+ 1710  docker image ls
+ 1711  sudo docker image ls
+ 1712  docker app init --single-file hello-world
+ 1713  sudo docker app init --single-file hello-world
+ 1714  docker app init  hello-world
+ 1715  sudo curl -L "https://github.com/docker/compose/releases/download/1.26.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+ 1716  sudo chmod +x /usr/local/bin/docker-compose
+ 1717  sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+ 1718  docker-compose --version
+ 1719  docker app init --single-file hello-world
+ 1720  cd Downloads/
+ 1721  ls
+ 1722  sudo scp -r CarlaUE4Ubuntu.tar.gz ardouz@@137.117.92.125:
+ 1723  sudo scp -i ardouz_key.pem CarlaUE4Ubuntu.tar.gz ardouz@137.117.92.125:/Carla
+ 1724  sudo scp -i ardouz_key.pem CarlaUE4Ubuntu.tar.gz ardouz@137.117.92.125:Carla
+ 1725  chmod 400 ardouz.pem
+ 1726  cd Downloads/
+ 1727  chmod 400 ardouz.pem
+ 1728  sudo chmod 400 ardouz.pem
+ 1729  chmod 400 ardouz_key.pem
+ 1730  ssh -i ardouz_key.pem ardouz@137.117.92.125
+ 1731  sudo add-apt-repository ppa:obsproject/obs-studio
+ 1732  mongo
+ 1733  cd kafka_2.13-2.5.0/
+ 1734  mongo -u admin -p Gseii2021 23.97.192.20/admin
+ 1735  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties 
+ 1736  ls
+ 1737  node fs.js 
+ 1738  node globals.js 
+ 1739  mkdir Mongodb
+ 1740  cd Mongodb/
+ 1741  apt-get install mongodb 
+ 1742  sudo apt-get install mongodb 
+ 1743  npm install mongodb --save  
+ 1744  sudo npm install mongodb --save  
+ 1745  mongo --version
+ 1746  service mongodb start  
+ 1747  gedit first.js
+ 1748  node first.js 
+ 1749  gedit first.js
+ 1750  node first.js 
+ 1751  gedit first.js
+ 1752  node first.js 
+ 1753  gedit first.js
+ 1754  node first.js 
+ 1755  gedit first.js
+ 1756  node first.js 
+ 1757  gedit first.js
+ 1758  node first.js 
+ 1759  cls
+ 1760  clear
+ 1761  gedit first.js
+ 1762  node first.js 
+ 1763  gedit first.js
+ 1764  node first.js 
+ 1765  gedit first.js
+ 1766  node first.js 
+ 1767  gedit first.js
+ 1768  node first.js 
+ 1769  npm install express multer multer-gridfs-storage
+ 1770  cd /home/ardouz/
+ 1771  ls
+ 1772  ls -all
+ 1773  clear
+ 1774  cd -
+ 1775  cd ..
+ 1776  ls
+ 1777  cd basics/
+ 1778  ls
+ 1779  cd ..
+ 1780  ls
+ 1781  cd ..
+ 1782  ls
+ 1783  cd -
+ 1784  cd Mongodb/
+ 1785  npm install express multer multer-gridfs-storage
+ 1786  npm install mongodb --save  
+ 1787  npm install express --save
+ 1788  npm install body-parser --save
+ 1789  npm install mongoose --save
+ 1790  npm install multer --save
+ 1791  gedit first.js
+ 1792  node first.js 
+ 1793  gedit first.js
+ 1794  node first.js 
+ 1795  gedit first.js
+ 1796  node first.js 
+ 1797  gedit first.js
+ 1798  node first.js 
+ 1799  gedit first.js
+ 1800  node first.js 
+ 1801  gedit first.js
+ 1802  node first.js 
+ 1803  clear
+ 1804  gedit first.js
+ 1805  clear
+ 1806  node first.js 
+ 1807  gedit first.js
+ 1808  node first.js 
+ 1809  gedit first.js
+ 1810  gedit insertion.js
+ 1811  gedit first.js && gedit insertion.js
+ 1812  gedit first.js
+ 1813  gedit insertion.js
+ 1814  node insertion.js 
+ 1815  gedit insertion.js
+ 1816  node insertion.js 
+ 1817  gedit insertion.js
+ 1818  node insertion.js 
+ 1819  gedit insertion.js
+ 1820  node insertion.js 
+ 1821  gedit insertion.js
+ 1822  gedit first.js
+ 1823  node first.js 
+ 1824  gedit first.js
+ 1825  node first.js 
+ 1826  gedit first.js
+ 1827  node first.js 
+ 1828  gedit connection.js
+ 1829  node connection.js 
+ 1830  npm install ngx-bootstrap --save
+ 1831  cd ~/Desktop/Learning/
+ 1832  ls
+ 1833  cd git
+ 1834  ls
+ 1835  git init
+ 1836  git remote add origin https://github.com/oksyassine/kafka-mongo-sync
+ 1837  git add Bidirectionnelle
+ 1838  git commit -m "Adding Bidirectional ..."
+ 1839  git push -u origin master
+ 1840  git pull origin master
+ 1841  git push -u origin master
+ 1842  cd -
+ 1843  cd Desktop/Learning/Node_Js/Mongodb/
+ 1844  ls
+ 1845  clear
+ 1846  npm search express 
+ 1847  npm update
+ 1848  sudo npm update
+ 1849  npm install -g npm 
+ 1850  sudo npm install -g npm 
+ 1851  clear
+ 1852  node -v
+ 1853  node -e 10+10
+ 1854  node -p 10+10
+ 1855  npm install promise --save
+ 1856  npm fund
+ 1857  sudo npm install promise --save
+ 1858  sudo npm fund
+ 1859  npm install promise 
+ 1860  mongo -u admin -p Gseii2021 23.97.192.20/admin
+ 1861  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties 
+ 1862  cd ~/kafka_2.13-2.5.0/
+ 1863  bin/connect-standalone.sh config/connect-standalone.properties config/MongoSourceConnector.properties 
+ 1864  cd ~/Downloads/
+ 1865  tar -xzf Postman-linux-x64-7.30.1.tar.gz 
+ 1866  sudo mv Postman /opt/Postman
+ 1867  sudo ln -s /opt/Postman/Postman /usr/bin/postman
+ 1868  cat > ~/.local/share/applications/postman.desktop <<EOL
+ 1869  [Desktop Entry]
+ 1870  Encoding=UTF-8
+ 1871  Name=Postman
+ 1872  Exec=postman
+ 1873  # Before v6.1.2
+ 1874  # Icon=/opt/Postman/resources/app/assets/icon.png
+ 1875  Icon=/opt/Postman/app/resources/app/assets/icon.png 
+ 1876  Terminal=false
+ 1877  Type=Application
+ 1878  Categories=Development;
+ 1879  EOL
+ 1880  cd /opt/Postman/app/resources/app/assets/
+ 1881  ls
+ 1882  xdg-open icon.png 
+ 1883  cat > ~/.local/share/applications/postman.desktop <<EOL
+ 1884  [Desktop Entry]
+ 1885  Encoding=UTF-8
+ 1886  Name=Postman
+ 1887  Exec=postman
+ 1888  # Before v6.1.2
+ 1889  # Icon=/opt/Postman/resources/app/assets/icon.png
+ 1890  Icon=/opt/Postman/app/resources/app/assets/icon.png 
+ 1891  Terminal=false
+ 1892  Type=Application
+ 1893  Categories=Development;
+ 1894  EOL
+ 1895  source ~/.local/share/applications/postman.desktop
+ 1896  . ~/.local/share/applications/postman.desktop
+ 1897  cd ~/.local/share/applications/
+ 1898  ls
+ 1899  cat eclipse.desktop 
+ 1900  cat postman.desktop 
+ 1901  gedit  postman.desktop 
+ 1902  lsb_release -a
+ 1903  cd  Desktop/
+ 1904  mkdir Stage
+ 1905  cd Learning/
+ 1906  mkdir Stage
+ 1907  cd Stage/
+ 1908  mkdir mean-demo
+ 1909  cd mean-demo/
+ 1910  npm init
+ 1911  ls
+ 1912  npm install express --save
+ 1913  cat package
+ 1914  cat package.json 
+ 1915  -mean-demo
+ 1916  tree
+ 1917  sudo apt install tree
+ 1918  tree
+ 1919  ls
+ 1920  gedit server.js
+ 1921  npm start
+ 1922  gedit server.js
+ 1923  npm start
+ 1924  gedit server.js
+ 1925  npm start
+ 1926  gedit server.js
+ 1927  npm start
+ 1928  gedit server.js
+ 1929  npm start
+ 1930  gedit server.js
+ 1931  npm start
+ 1932  gedit server.js
+ 1933  npm start
+ 1934  gedit server.js
+ 1935  npm start
+ 1936  gedit server.js
+ 1937  npm start
+ 1938  gedit server.js
+ 1939  npm start
+ 1940  gedit server.js
+ 1941  npm start
+ 1942  npm install
+ 1943  ls
+ 1944  mkdir app
+ 1945  cd app/
+ 1946  mkdir models
+ 1947  cd models/
+ 1948  gedit students.js
+ 1949  cd ../..
+ 1950  mkdir config
+ 1951  cd config/
+ 1952  gedit db.js
+ 1953  npm start
+ 1954  ls 
+ 1955  cd ..
+ 1956  ls
+ 1957  cd app
+ 1958  ls
+ 1959  cd models/
+ 1960  ls
+ 1961  cd ..
+ 1962  npm start
+ 1963  cd ~/.local/share/applications/
+ 1964  mv postman.desktop Postman.desktop
+ 1965  ls
+ 1966  cd -
+ 1967  npm start
+ 1968  cd app/
+ 1969  cd models/
+ 1970  ls
+ 1971  mv students.js student.js
+ 1972  npm start
+ 1973  ls
+ 1974  rm students.js 
+ 1975  npm start
+ 1976  ls
+ 1977  gedit student.js
+ 1978  mongo
+ 1979  cd Desktop/Learning/Stage/
+ 1980  cd mean-demo/
+ 1981  npm install -g bower
+ 1982  npm install -g webpack
+ 1983  npm install -g Parcel
+ 1984  npm install Parcel
+ 1985  npm install parcel
+ 1986  npm-upgrade
+ 1987  npm i -g npm-upgrade
+ 1988  npm install webpack
+ 1989  sudo npm i -g npm-upgrade
+ 1990  npm cache clean --force
+ 1991  sudo npm i -g npm-upgrade
+ 1992  npm install -g typescript
+ 1993  sudo npm install -g typescript
+ 1994  tsc -v
+ 1995  cd Application/
+ 1996  npm install --save express
+ 1997  ls
+ 1998  npm install -g express-generator
+ 1999  sudo npm install -g express-generator
+ 2000  ls
+ 2001  node -v
+ 2002  express -v
+ 2003  express -version
+ 2004  express --version
+ 2005  cd ..
+ 2006  git init 
+ 2007  ls
+ 2008  cd Application/
+ 2009  ls
+ 2010  npm install --save express
+ 2011  npm fund
+ 2012  npm install
+ 2013  ls
+ 2014  clear
+ 2015  express
+ 2016  ls
+ 2017  ls -all
+ 2018  clear
+ 2019  express --css=less --view=hbs --git
+ 2020  express --view=pug --git
+ 2021  npm install
+ 2022  npm start
+ 2023  npm install --save nodemon
+ 2024  nodemon start
+ 2025  npm audit fix
+ 2026  npm install -g nodemon
+ 2027  sudo npm install -g nodemon
+ 2028  nodemon start
+ 2029  history > history.txt
